@@ -1,12 +1,12 @@
-// This is where project configuration and plugin options are located.
+o// This is where project configuration and plugin options are located.
 // Learn more: https://gridsome.org/docs/config
 
 // Changes here requires a server restart.
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'tech-NEWS',
-  siteDescription: 'A simple, technology news feed app',
+  siteName: 'Technologijų Naujienos',
+  siteDescription: 'čia rasite naujienas ir ne tik apie tech pasaulį',
 
   templates: {
     Post: '/:title',
