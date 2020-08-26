@@ -1,7 +1,7 @@
 ---
 title: „Dacia“ pristato „Spring“ - skelbiama, kad tai bus įperkamiausias
   elektromobilis Europoje
-date: 2020-08-26T11:56:39.630Z
+date: 2020-08-26T12:08:54.323Z
 published: true
 tags:
   - elektromobilis
