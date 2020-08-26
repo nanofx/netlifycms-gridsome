@@ -6,7 +6,7 @@
 		</h1>
 
 		<p class="author__intro">
-			A simple, tech-NEWS feed.
+			A simple, technology news feed app
 		</p>
 
 
