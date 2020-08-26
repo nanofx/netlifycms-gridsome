@@ -6,16 +6,14 @@ published: true
 tags:
   - elektromobilis
 cover_image: ../../static/images/uploads/elektromobilis-1.jpg
-description: >-
-  **Išlavinto skonio pirkėjui toks elektromobilis gali pasirodyti, kaip dėžė ant
-  ratų. Tačiau norintiems greitai ir ekonomiškai nuvykti iš taško A į tašką B ir
-  tiesiog už labai žemą kainą turėti asmeninį ekologišką automobilį - tai tampa
-  puikiu variantu. Ir panašu, kad susidomėjimas šiuo elektromobiliu yra
-  didžiulis.**
-
-
-  ![](../../static/images/uploads/elektromobilis-2.jpg)
+description: "**Išlavinto skonio pirkėjui toks elektromobilis gali pasirodyti,
+  kaip dėžė ant ratų. Tačiau norintiems greitai ir ekonomiškai nuvykti iš taško
+  A į tašką B ir tiesiog už labai žemą kainą turėti asmeninį ekologišką
+  automobilį - tai tampa puikiu variantu. Ir panašu, kad susidomėjimas šiuo
+  elektromobiliu yra didžiulis.**"
 ---
+![elektromobilis Wuling Hongguang MINI](../../static/images/uploads/elektromobilis-2.jpg "elektromobilis")
+
 Jei jau užsigeidėte šio automobilio ir pradėjote daužyti taupyklę – neskubėkite. Deja, bet šis elektromobilis kol kas pardavinėjamas tik Kinijoje. Yra planų dėl plėtros į Indoneziją ir Indiją.
 
 Pastaraisiais metais Kinijoje tokie mini elektromobiliai tapo labai populiarūs. Ir čia turime dar vieną tokį modelį.
@@ -32,8 +30,8 @@ Ir kaip praneša „Gasgoo“, nuo pasirodymo praėjus vos 20 dienų – šių m
 
 O ir ekologinis sąmoningumas bei, pripažinkime, mada, daro savo įtaką ir vis daugiau jaunų žmonių nori elektromobilio.
 
-Štai ir kitas Kinijos elektromobilių gamintojas „Kandi“ siūlo amerikiečiams – itin galingų ir didelių automobilių mėgėjams – kompaktiškus elektromobilius [vos nuo 13 000 dolerių](http://www.technologijos.lt/n/technologijos/automobiliai_ir_motociklai/S-83742/straipsnis/Pigiau-tik-uz-dyka-kiniski-elektromobiliai-Kandi-JAV-bus-parduodami-uz-stebetinai-zema-kaina-Video).
+Štai ir kitas Kinijos elektromobilių gamintojas „Kandi“ siūlo amerikiečiams – itin galingų ir didelių automobilių mėgėjams – kompaktiškus elektromobilius vos nuo 13 000 dolerių.
 
-Ir tikėdamas savo sėkme, visai neseniai [pranešė](https://electrek.co/2020/08/20/chinese-ev-maker-kandi-electric-car-factory-north-america/), kad planuoja JAV statyti tokių elektromobilių gamyklą. Laikai keičiasi, kaip ir žmonių požiūris į transporto priemones.
+Ir tikėdamas savo sėkme, visai neseniai pranešė, kad planuoja JAV statyti tokių elektromobilių gamyklą. Laikai keičiasi, kaip ir žmonių požiūris į transporto priemones.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cdi2dBOqBUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
