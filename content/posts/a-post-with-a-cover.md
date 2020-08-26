@@ -1,23 +1,39 @@
 ---
-title: A post with a cover image
-date: 2019-01-07T00:00:00.000Z
-published: false
+title: "Turbūt pigiausias elektromobilis pasaulyje: vos 4000$ kainuojantis
+  „General Motors“ automobilis muša pardavimų rekordus"
+date: 2020-08-26T10:58:28.876Z
+published: true
 tags:
-  - Markdown
-  - Cover Image
-cover_image: ../../static/images/uploads/alexandr-podvalny-220262-unsplash.jpg
-description: Markdown is intended to be as easy-to-read and easy-to-write as is
-  feasible. Readability, however, is emphasized above all else. A
-  Markdown-formatted document should be publishable as-is, as plain text,
-  without looking like it's been marked up with tags or formatting instructions.
+  - elektromobilis
+cover_image: ../../static/images/uploads/elektromobilis-1.jpg
+description: >-
+  **Išlavinto skonio pirkėjui toks elektromobilis gali pasirodyti, kaip dėžė ant
+  ratų. Tačiau norintiems greitai ir ekonomiškai nuvykti iš taško A į tašką B ir
+  tiesiog už labai žemą kainą turėti asmeninį ekologišką automobilį - tai tampa
+  puikiu variantu. Ir panašu, kad susidomėjimas šiuo elektromobiliu yra
+  didžiulis.**
+
+
+  ![](../../static/images/uploads/elektromobilis-2.jpg)
 ---
+Jei jau užsigeidėte šio automobilio ir pradėjote daužyti taupyklę – neskubėkite. Deja, bet šis elektromobilis kol kas pardavinėjamas tik Kinijoje. Yra planų dėl plėtros į Indoneziją ir Indiją.
 
-Readability, however, is emphasized above all else. A Markdown-formatted
-document should be publishable as-is, as plain text, without looking
-like it's been marked up with tags or formatting instructions. 
+Pastaraisiais metais Kinijoje tokie mini elektromobiliai tapo labai populiarūs. Ir čia turime dar vieną tokį modelį.
 
-While Markdown's syntax has been influenced by several existing text-to-HTML filters -- including [Setext](http://docutils.sourceforge.net/mirror/setext.html), [atx](http://www.aaronsw.com/2002/atx/), [Textile](http://textism.com/tools/textile/), [reStructuredText](http://docutils.sourceforge.net/rst.html),
-[Grutatext](http://www.triptico.com/software/grutatxt.html), and [EtText](http://ettext.taint.org/doc/) -- the single biggest source of
-inspiration for Markdown's syntax is the format of plain text email.
+„GM“ drauge su „SAINC“ sukūrė „Wuling Hongguang MINI“ elektromobilį, kurio kaina prasideda vos nuo 4000 dolerių ir maksimalios komplektacijos automobilis kainuoja 5500 dolerių.
 
+Ir kaip praneša „Gasgoo“, nuo pasirodymo praėjus vos 20 dienų – šių mažų elektromobilių Kinijoje parduota 15 000 vnt., ir sulaukta dar 50 000 užsakymų.
 
+„Nuo liepos 24 d., kai Chengdu Motor Show buvo pristatytas Wuling Hongguang MINI elektromobilis, vos per 20 dienų juos įsigijo 15 000 pirkėjų. Pirmieji 10 000 vienetų buvo parduoti labai greitai. Tiesą sakant, per pirmąją pardavimų savaitę jų parduota 7 346. Per visą šį laiką naująjį elektromobilį užsisakė 50 000 klientų“, - rašo „Gasgoo“.
+
+Žinoma, už Kinijos sienų tokie kompaktiški „kibiriukai“ kol kas nėra tokie populiarūs, bet laikai keičiasi.
+
+Žmonės į transporto priemonę pradeda vis labiau žiūrėti, kaip į daiktą, leidžianti patogiai ir greitai nuvykti į norimą vietą, o ne kaip bandymą parodyti savo (ne)esamą socialinį statusą.
+
+O ir ekologinis sąmoningumas bei, pripažinkime, mada, daro savo įtaką ir vis daugiau jaunų žmonių nori elektromobilio.
+
+Štai ir kitas Kinijos elektromobilių gamintojas „Kandi“ siūlo amerikiečiams – itin galingų ir didelių automobilių mėgėjams – kompaktiškus elektromobilius [vos nuo 13 000 dolerių](http://www.technologijos.lt/n/technologijos/automobiliai_ir_motociklai/S-83742/straipsnis/Pigiau-tik-uz-dyka-kiniski-elektromobiliai-Kandi-JAV-bus-parduodami-uz-stebetinai-zema-kaina-Video).
+
+Ir tikėdamas savo sėkme, visai neseniai [pranešė](https://electrek.co/2020/08/20/chinese-ev-maker-kandi-electric-car-factory-north-america/), kad planuoja JAV statyti tokių elektromobilių gamyklą. Laikai keičiasi, kaip ir žmonių požiūris į transporto priemones.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cdi2dBOqBUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
