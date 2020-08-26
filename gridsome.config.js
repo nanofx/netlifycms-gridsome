@@ -5,8 +5,8 @@ o// This is where project configuration and plugin options are located.
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Technologijų Naujienos',
-  siteDescription: 'čia rasite naujienas ir ne tik apie tech pasaulį',
+  siteName: 'Technologijos',
+  siteDescription: 'news - gadgets - lifestyle',
 
   templates: {
     Post: '/:title',
