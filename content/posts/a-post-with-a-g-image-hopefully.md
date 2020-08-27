@@ -46,6 +46,6 @@ Gamintojas taip pat žada, kad „Lucid Air“ atkeliaus su trečią lygį atiti
 
 Dabar elektromobilių mėgėjai su nekantrumu laukia šių metų rugsėjo 9 dienos. Gamintojas ruošia internetinį premjeros renginį ir tądien bus oficialiai pristatytas „Lucid Air“ elektromobilis bei kitos su juo susijusios detalės.
 
-**www.technologijos.lt**
+**technologijos.lt**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jbXEWi-OK4o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
