@@ -34,6 +34,6 @@ O ir ekologinis sąmoningumas bei, pripažinkime, mada, daro savo įtaką ir vis
 
 Ir tikėdamas savo sėkme, visai neseniai pranešė, kad planuoja JAV statyti tokių elektromobilių gamyklą. Laikai keičiasi, kaip ir žmonių požiūris į transporto priemones.
 
-<http://www.technologijos.lt/>
+**technologijos.lt**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cdi2dBOqBUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
