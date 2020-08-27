@@ -30,11 +30,15 @@ Prisiminkime, kad „Tesla“ trečios kartos ir greitąjį įkrovimą palaikant
 
 „Lucid“ tvirtina, kad jų įkrovimo technologija turės „pilną sąveiką su viešąja įkrovimo infrastruktūra, įskaitant esamus ir naujai šalyje (JAV aut. past.) įrengiamus 350 kW įkrovimo taškus“.
 
+![]()
+
 Be to, padedant „Volkswagen“ dukterinei įmonei „Electrify America“, JAV bus sukurtas atskiras greitąjį elektromobilių įkrovimą palaikantis tinklas, kuris remsis kombinuotos įkrovimo sistemos (CCS) standartu.
 
 Taip pat kompanija tvirtina, kad asmeniniam naudojimui „Lucid Air“ elektromobilius įsigijusieji galės viešose įkrovimo stotelėse juos nemokamai įkrauti trejus metus.
 
 „Lucid“ teigia, kad jie pirmieji pasaulyje pirkėjams pasiūlys namuose įrengiamą dvikryptę įkrovimo stotelę. Tai reiškia, kad „Lucid Air“ elektromobilį ne tik bus galima įkrauti savo namuose, bet ir panaudoti elektromobilio energiją, kai tik į namus nutrūks elektros tiekimas. „Tai bus tarsi didžiulė baterija“, - teigia „Lucid“ kompanija.
+
+![Lucid Air](../../static/images/uploads/lucid-air-elektromobilis-1.jpg "Lucid Air")
 
 Čia verta pažymėti, kad namuose bus palaikomas vienas geriausių rinkoje 19,2 kW (AC) elektromobilio įkrovimo rodiklių. Kas reiškia, jog per 1 val. „Lucid Air“ baterijos bus įkrautos tiek, kad bus galima nuvažiuoti 80 mylių arba 129 km.
 
