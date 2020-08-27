@@ -2,7 +2,7 @@
 title: "„Tesla“ konkurentas pasiruošęs nustebinti visus: mūsų elektromobilis bus
   greičiausiai įkraunamas pasaulyje – vos per 20 minučių beveik 500 km,
   dvikryptis įkrovimas ir nemokama elektra 3 metams"
-date: 2020-07-25T20:21:08.117Z
+date: 2020-08-27T06:52:04.900Z
 published: false
 tags:
   - elektrombilis
