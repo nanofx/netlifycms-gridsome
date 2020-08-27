@@ -30,8 +30,6 @@ Prisiminkime, kad „Tesla“ trečios kartos ir greitąjį įkrovimą palaikant
 
 „Lucid“ tvirtina, kad jų įkrovimo technologija turės „pilną sąveiką su viešąja įkrovimo infrastruktūra, įskaitant esamus ir naujai šalyje (JAV aut. past.) įrengiamus 350 kW įkrovimo taškus“.
 
-![]()
-
 Be to, padedant „Volkswagen“ dukterinei įmonei „Electrify America“, JAV bus sukurtas atskiras greitąjį elektromobilių įkrovimą palaikantis tinklas, kuris remsis kombinuotos įkrovimo sistemos (CCS) standartu.
 
 Taip pat kompanija tvirtina, kad asmeniniam naudojimui „Lucid Air“ elektromobilius įsigijusieji galės viešose įkrovimo stotelėse juos nemokamai įkrauti trejus metus.
