@@ -25,4 +25,6 @@ Baterijos yra brangiausia elektromobilio dalis ir „Spring“ turės gana nedid
 
 Maždaug tiek informacijos kol kas žinome. „Spring“ yra pirmasis „Dacia“ elektromobilis, tačiau jų tikrai bus daugiau. Kiek „Spring“ gali kainuoti? Kol kas nežinoma, tačiau „Renault City K-ZE“ Kinijoje kainuoja 61800 juanius - mažiau nei 8000 eurų (skaičiuojant po valstybės paramos). „Spring“ yra labai panašus į „City K-ZE“ - techniškai tai yra identiški automobiliai. Tačiau europiečiai turi daugiau pinigų, čia galioja kitokie standartai, todėl „Spring“ bus brangesnis. Bet kuriuo atveju, jis turi puikius šansus tapti pigiausiu elektromobiliu Europoje.
 
+<http://www.technologijos.lt/>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m_wQMo50HRk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
